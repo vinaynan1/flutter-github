@@ -3,7 +3,8 @@ Project Featured on the officyiuyiial [Flutter Website](https://flutter.dev/docs
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![](https://github.com/nabilnalakath/flutter-action/workflows/main.yml/badge.svg)
-[![pub package](https://img.shields.io/pub/v/badge.svg)](https://pub.dartlang.org/packages/badge)
+[![pub package](https://img.shields.io/pub/v/badge.svg)](https://pub.dartlang.org/packages/badge
+
 
 
 
